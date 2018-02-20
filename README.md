@@ -1,0 +1,1 @@
+# board-zerynth-arduino_mkr1000
