@@ -33,6 +33,7 @@
     "uplink_reset": true,
     "reset_time": 2000,
     "has_alter_ego":"ArduinoMKR1000",
+    "crypto_provisioning": "lightweight",
     "connection":{
         "baudrate":115200,
         "parity":"n",
