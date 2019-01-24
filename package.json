@@ -1,9 +1,9 @@
 {
     "dependencies": {
-        "lib.microchip.winc1500": "r2.1.2",
-        "sys.zerynth.armgcc": "r2.1.2",
-        "sys.zerynth.bossac": "r2.1.2",
-        "vhal.zerynth.armcmx_atmelsamd21": "r2.1.2"
+        "lib.microchip.winc1500": "r2.2.0",
+        "sys.zerynth.armgcc": "r2.2.0",
+        "sys.zerynth.bossac": "r2.2.0",
+        "vhal.zerynth.armcmx_atmelsamd21": "r2.2.0"
     },
     "description": "Add support for Arduino/Genuino MKR1000",
     "fullname": "board.zerynth.arduino_mkr1000",
@@ -24,6 +24,6 @@
     ],
     "repo": "official",
     "title": "Arduino/Genuino MKR1000 Support Package",
-    "version": "r2.1.2",
+    "version": "r2.2.0",
     "whatsnew": " "
 }
