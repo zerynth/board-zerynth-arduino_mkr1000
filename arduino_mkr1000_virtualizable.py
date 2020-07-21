@@ -19,7 +19,7 @@ class ArduinoMKR1000Virtualizable(Board):
         if res:
             return False,out
         return True,out
-
+        
 
     def __init__(self,info={},dev={}):
         super().__init__(info,dev)
